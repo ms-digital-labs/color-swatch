@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/cwninja/color-swatch",
+	"GoVersion": "go1.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/lucasb-eyer/go-colorful",
+			"Rev": "dc364cfaafd9dab8a841efcf8cb725a3eb22047e"
+		}
+	]
+}
